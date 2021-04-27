@@ -3,6 +3,7 @@
   :author "Nathan Froyd <froydnj@gmail.com>"
   :license  "MIT"
   :version "0.0.1"
+  :homepage "https://github.com/mmontone/cl-mimeparse"
   :serial t
   :components ((:file "package")
                (:file "mimeparse"))
